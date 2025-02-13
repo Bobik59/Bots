@@ -1,0 +1,17 @@
+{
+  "name": "Bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_modules/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "moment-timezone": "^0.5.47",
+    "node-fetch": "^3.3.2",
+    "node-schedule": "^2.1.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "tz-lookup": "^6.1.25"
+  }
+}
